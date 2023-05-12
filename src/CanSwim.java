@@ -1,4 +1,5 @@
 public interface CanSwim {
-    void swim();
+
+  void swim();
 
 }

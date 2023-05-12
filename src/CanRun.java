@@ -1,4 +1,5 @@
 public interface CanRun {
-    void run();
+
+  void run();
 
 }
